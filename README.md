@@ -1,5 +1,5 @@
 
-Hamming Code Error Detection and Correction (Single Bit) - Verilog HDL
+##Hamming Code Error Detection and Correction (Single Bit) - Verilog HDL
 Overview
 This project implements Hamming Code for error detection and correction using Verilog HDL. Hamming Code is a forward error correction coding method capable of detecting both single and double-bit errors while correcting single-bit errors in transmitted binary data. This design improves data reliability without requiring data retransmission, making it ideal for applications where real-time communication and data integrity are critical.
 
