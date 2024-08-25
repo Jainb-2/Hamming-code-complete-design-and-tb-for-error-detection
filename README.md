@@ -50,11 +50,11 @@ The design has been simulated using **Vivado 2016.2**. The simulation results co
 
 - **Encoding Simulation:**
 
-  ![Encoding Simulation](.encoding simulation graph.png)
+  ![Encoding Simulation](./encoding_simulation_graph.png)
 
 - **Decoding and Correction Simulation:**
 
-  ![Decoding Simulation](./Images/decoding_simulation_graph.PNG)
+  ![Decoding Simulation](./decoding_simulation_graph.png)
 
 ## Conclusion
 
